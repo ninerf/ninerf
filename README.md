@@ -8,10 +8,6 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/on_github_since-2020-111111?style=for-the-badge&labelColor=000000&color=0d0d0d&logo=github&logoColor=555555" />
-
-<br/><br/>
-
 <code>currently building</code>
 
 <br/><br/>
@@ -41,6 +37,10 @@
 <!-- ACHIEVEMENTS-START -->
 <img src="https://github-trophies.vercel.app/?username=ninerf&theme=darkhub&no-bg=true&no-frame=true&column=4&margin-w=10&margin-h=10" />
 <!-- ACHIEVEMENTS-END -->
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/on_github_since-2020-111111?style=for-the-badge&labelColor=000000&color=0d0d0d&logo=github&logoColor=555555" />
 
 <br/><br/>
 
