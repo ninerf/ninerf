@@ -34,6 +34,16 @@
 
 <br/><br/>
 
+<code>achievements</code>
+
+<br/><br/>
+
+<!-- ACHIEVEMENTS-START -->
+<img src="https://github-profile-trophy.vercel.app/?username=ninerf&theme=darkhub&no-bg=true&no-frame=true&column=4&margin-w=10&margin-h=10" />
+<!-- ACHIEVEMENTS-END -->
+
+<br/><br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:000000&height=100&section=footer" width="100%"/>
 
 </div>
