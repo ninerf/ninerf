@@ -39,7 +39,7 @@
 <br/><br/>
 
 <!-- ACHIEVEMENTS-START -->
-<img src="https://github-profile-trophy.vercel.app/?username=ninerf&theme=darkhub&no-bg=true&no-frame=true&column=4&margin-w=10&margin-h=10" />
+<img src="https://github-trophies.vercel.app/?username=ninerf&theme=darkhub&no-bg=true&no-frame=true&column=4&margin-w=10&margin-h=10" />
 <!-- ACHIEVEMENTS-END -->
 
 <br/><br/>
