@@ -26,15 +26,11 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,python,rust,godot,docker,linux,figma,blender,unreal&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,python,rust,godot,docker,linux&theme=dark&perline=9" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/DaVinci_Resolve-0d0d0d?style=flat-square&logo=davinciresolve&logoColor=555555" /> <img src="https://img.shields.io/badge/Final_Cut_Pro-0d0d0d?style=flat-square&logo=apple&logoColor=555555" /> <img src="https://img.shields.io/badge/VMware_ESXi-0d0d0d?style=flat-square&logo=vmware&logoColor=555555" /> <img src="https://img.shields.io/badge/MikroTik-0d0d0d?style=flat-square&logo=mikrotik&logoColor=555555" /> <img src="https://img.shields.io/badge/Terraform-0d0d0d?style=flat-square&logo=terraform&logoColor=555555" /> <img src="https://img.shields.io/badge/Ansible-0d0d0d?style=flat-square&logo=ansible&logoColor=555555" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/N8N-0d0d0d?style=flat-square&logo=n8n&logoColor=555555" /> <img src="https://img.shields.io/badge/Ollama-0d0d0d?style=flat-square&logo=ollama&logoColor=555555" /> <img src="https://img.shields.io/badge/OpenAI-0d0d0d?style=flat-square&logo=openai&logoColor=555555" /> <img src="https://img.shields.io/badge/WireGuard-0d0d0d?style=flat-square&logo=wireguard&logoColor=555555" /> <img src="https://img.shields.io/badge/HomeKit-0d0d0d?style=flat-square&logo=apple&logoColor=555555" /> <img src="https://img.shields.io/badge/OBS-0d0d0d?style=flat-square&logo=obsstudio&logoColor=555555" />
+<img src="https://img.shields.io/badge/DaVinci_Resolve-0d0d0d?style=flat-square&logo=davinciresolve&logoColor=555555" /> <img src="https://img.shields.io/badge/VMware_ESXi-0d0d0d?style=flat-square&logo=vmware&logoColor=555555" /> <img src="https://img.shields.io/badge/MikroTik-0d0d0d?style=flat-square&logo=mikrotik&logoColor=555555" /> <img src="https://img.shields.io/badge/Ansible-0d0d0d?style=flat-square&logo=ansible&logoColor=555555" /> <img src="https://img.shields.io/badge/N8N-0d0d0d?style=flat-square&logo=n8n&logoColor=555555" />
 
 <br/><br/>
 
