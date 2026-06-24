@@ -11,7 +11,7 @@
 <code>currently building</code>
 
 <br/>
-<sub>most of my projects are private</sub>
+<sub><img src="https://img.shields.io/badge/most_of_my_projects_are_private-222222?style=flat-square&labelColor=222222" /></sub>
 <br/><br/>
 
 <!-- PROJECTS-START -->
