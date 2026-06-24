@@ -10,6 +10,8 @@
 
 <code>currently building</code>
 
+<br/>
+<sub>most of my projects are private</sub>
 <br/><br/>
 
 <!-- PROJECTS-START -->
