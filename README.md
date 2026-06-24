@@ -17,7 +17,7 @@
 <br/><br/>
 
 <!-- PROJECTS-START -->
-<img src="https://img.shields.io/badge/Zillow_Finder-111111?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Photography_Portfolio-111111?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Room_22-111111?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/NORVA-111111?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/ISB-111111?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/KalamehClub-111111?style=flat-square&logoColor=white" />
+[![](https://img.shields.io/badge/Zillow_Finder-111111?style=flat-square&logoColor=white)](https://github.com/ninerf/Zillow-Finder) [![](https://img.shields.io/badge/Photography_Portfolio-111111?style=flat-square&logoColor=white)](https://github.com/ninerf/photography-portfolio) [![](https://img.shields.io/badge/Room_22-111111?style=flat-square&logoColor=white)](https://github.com/ninerf/Room-22) [![](https://img.shields.io/badge/NORVA-111111?style=flat-square&logoColor=white)](https://github.com/ninerf/NORVA) [![](https://img.shields.io/badge/ISB-111111?style=flat-square&logoColor=white)](https://github.com/ninerf/ISB) [![](https://img.shields.io/badge/KalamehClub-111111?style=flat-square&logoColor=white)](https://github.com/ninerf/KalamehClub)
 <!-- PROJECTS-END -->
 
 <br/><br/>
