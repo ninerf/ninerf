@@ -1,0 +1,38 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update projects
+        run: |
+          REPOS=$(curl -s "https://api.github.com/users/ninerf/repos?sort=pushed&per_page=10&type=owner" \
+            | jq -r '.[].name | select(. != "ninerf")' | head -6)
+
+          PROJECTS=""
+          for repo in $REPOS; do
+            NAME=$(echo "$repo" | sed 's/-/ /g; s/_/ /g')
+            if [ -z "$PROJECTS" ]; then
+              PROJECTS="\`$NAME\`"
+            else
+              PROJECTS="$PROJECTS · \`$NAME\`"
+            fi
+          done
+
+          sed -i "/<!-- PROJECTS-START -->/,/<!-- PROJECTS-END -->/c\\<!-- PROJECTS-START -->\n$PROJECTS\n<!-- PROJECTS-END -->" README.md
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet && exit 0
+          git add README.md
+          git commit -m "update projects"
+          git push
