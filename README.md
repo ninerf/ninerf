@@ -24,11 +24,11 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,python,rust,godot,docker,linux&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=rust,linux,docker,kubernetes,nextjs,python,postgresql,redis&theme=dark&perline=8" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/DaVinci_Resolve-0d0d0d?style=flat-square&logo=davinciresolve&logoColor=555555" /> <img src="https://img.shields.io/badge/VMware_ESXi-0d0d0d?style=flat-square&logo=vmware&logoColor=555555" /> <img src="https://img.shields.io/badge/MikroTik-0d0d0d?style=flat-square&logo=mikrotik&logoColor=555555" /> <img src="https://img.shields.io/badge/Ansible-0d0d0d?style=flat-square&logo=ansible&logoColor=555555" /> <img src="https://img.shields.io/badge/N8N-0d0d0d?style=flat-square&logo=n8n&logoColor=555555" />
+<img src="https://img.shields.io/badge/GitLab_CI-0d0d0d?style=flat-square&logo=gitlab&logoColor=555555" /> <img src="https://img.shields.io/badge/GitHub_CI-0d0d0d?style=flat-square&logo=githubactions&logoColor=555555" /> <img src="https://img.shields.io/badge/Jenkins-0d0d0d?style=flat-square&logo=jenkins&logoColor=555555" /> <img src="https://img.shields.io/badge/AWS-0d0d0d?style=flat-square&logo=amazonaws&logoColor=555555" /> <img src="https://img.shields.io/badge/VMware_ESXi-0d0d0d?style=flat-square&logo=vmware&logoColor=555555" /> <img src="https://img.shields.io/badge/MikroTik-0d0d0d?style=flat-square&logo=mikrotik&logoColor=555555" /> <img src="https://img.shields.io/badge/Ansible-0d0d0d?style=flat-square&logo=ansible&logoColor=555555" /> <img src="https://img.shields.io/badge/N8N-0d0d0d?style=flat-square&logo=n8n&logoColor=555555" /> <img src="https://img.shields.io/badge/Cloudflare-0d0d0d?style=flat-square&logo=cloudflare&logoColor=555555" /> <img src="https://img.shields.io/badge/Zed-0d0d0d?style=flat-square&logo=zed&logoColor=555555" /> <img src="https://img.shields.io/badge/Terraform-0d0d0d?style=flat-square&logo=terraform&logoColor=555555" /> <img src="https://img.shields.io/badge/Claude_Code-0d0d0d?style=flat-square&logo=anthropic&logoColor=555555" />
 
 <br/><br/>
 
