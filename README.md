@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3000&pause=1000&color=888888&center=true&vCenter=true&repeat=true&width=435&height=45&lines=technologist;vr+developer;ai+lover;systems+engineer;techops+engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3000&pause=1000&color=888888&center=true&vCenter=true&repeat=true&width=435&height=45&lines=Systems+engineer;Devops+problem+solver;Rust+Supporter;Arch+user+btw+%28%2B+Nix%21%29;Technologist;TechOps;ex+VR+dev;Automation+creator;Tool+Development" alt="Typing SVG" /></a>
 
 <br/><br/>
 
