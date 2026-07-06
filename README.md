@@ -24,7 +24,7 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=rust,linux,docker,kubernetes,nextjs,python,postgresql,redis&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=rust,typescript,swift,linux,docker,kubernetes,nextjs,python,postgresql,redis&theme=dark&perline=10" />
 
 <br/><br/>
 
