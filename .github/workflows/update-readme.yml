@@ -5,6 +5,9 @@ on:
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -13,8 +16,14 @@ jobs:
 
       - name: Update projects
         run: |
-          REPOS=$(curl -s "https://api.github.com/users/ninerf/repos?sort=pushed&per_page=10&type=owner" \
+          REPOS=$(curl --fail --silent --show-error \
+            "https://api.github.com/users/ninerf/repos?sort=pushed&per_page=10&type=owner" \
             | jq -r '.[].name | select(. != "ninerf")' | head -6)
+
+          if [ -z "$REPOS" ]; then
+            echo "No other public repositories found; keeping the existing project list."
+            exit 0
+          fi
 
           PROJECTS=""
           for repo in $REPOS; do
