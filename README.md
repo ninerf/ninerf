@@ -15,7 +15,7 @@
 <br/><br/>
 
 <!-- PROJECTS-START -->
-`WindscribeWatchdog` · `NTFS C` · `Ghalamro showcase`
+`plane mcp rs` · `WindscribeWatchdog` · `NTFS C` · `Ghalamro showcase`
 <!-- PROJECTS-END -->
 
 <br/><br/>
